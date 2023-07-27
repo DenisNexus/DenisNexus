@@ -37,9 +37,8 @@
 
 ## Connect with me  
 <div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/DenisBurmistr)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/DenisBurmistr)  
-  
+<a href="https://t.me/DenisBurmistr" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'></a> 
+
 <br/>  
 <div align="center"></div>
 <br />
